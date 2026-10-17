@@ -1,0 +1,381 @@
+{
+  "replacement_rules": [
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        134649354677265,
+        78486166792864,
+        99845279926298,
+        17724938473,
+        11841393283,
+        11841388795,
+        78104268911907,
+        11841392845,
+        138384240832659,
+        111010041364610,
+        88973041647543,
+        94327485827335,
+        91627691758318,
+        135757810468851,
+        77594030658942,
+        89121656731662,
+        10682557537,
+        120783759765909,
+        11841392856,
+        108192448919854,
+        139682736662610,
+        74387583225428,
+        82848310957946,
+        99099563962701,
+        11841392045,
+        117210674994812,
+        97077538685802,
+        71181894082372,
+        84012185623680,
+        120205859919593,
+        89290210635737,
+        104263187375172,
+        125197738472588,
+        92343586198514,
+        99395188962933,
+        120783759765909,
+        111331317943411,
+        11841393283,
+        71615061182711,
+        99099563962701,
+        108192448919854,
+        99395188962933,
+        97077538685802,
+        118897609288665,
+        127348203725162,
+        111009431607203,
+        81852063362216
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        89290210635737
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/abyssal%20handgaurd.obj"
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        131336005412236
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/jellyfish%20mag.obj"
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        139682736662610,
+        104269594108255
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/abyssal%20barrel.obj"
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        73604567368723,
+        117210674994812
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/abyssal%20stock%20version3.obj"
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        98451836713711
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/stock%20part%20abyssal5.obj"
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        76032326477723,
+        85622799912136,
+        105172931893054,
+        102703573850455,
+        99260639965605,
+        74864569522140,
+        14317823274,
+        11195516398
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        87874553953839
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/lower%20abyssal%20final%202.obj"
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        11841392856
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/body%20upper1.obj"
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        139517681905131,
+        82271025092362,
+        121903910338318,
+        102048014847981,
+        111348260733256,
+        130742864106183,
+        94906075705248,
+        122784273921608,
+        91236118384525,
+        81585282141106,
+        129061061715114,
+        77393036202975,
+        110942141303412,
+        76935181591781,
+        133713967721041,
+        90141469391090,
+        92955487077142,
+        113939572923223,
+        97566291583287,
+        75850398303347,
+        83426938506282,
+        134718356681555,
+        72060557663961,
+        134109723400189,
+        80270623786829,
+        84186241171023,
+        79518136777319,
+        137264745677066,
+        105710901125716,
+        82570425664798,
+        85108440090108,
+        112934980702406
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        88973041647543
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/abyssal%20grip.obj"
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        16075138319
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/c25.ogg"
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        287062939
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/c7a2.ogg"
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        127348203725162
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/trigger%20might%20be%204%20much.obj"
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        5099350829,
+        151165214,
+        323494035,
+        159005370,
+        591058823,
+        600830446,
+        6444884337,
+        144933338,
+        9544505500,
+        153695414,
+        150335574,
+        2673271663,
+        15063412549,
+        91458024,
+        4495864450,
+        6444884337
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/sky%20back.png"
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        5099350794,
+        151165197,
+        323494368,
+        858422412,
+        591059876,
+        600831635,
+        6444884785,
+        144931530,
+        9544547905,
+        153695352,
+        150335585,
+        2673271148,
+        15063341496,
+        91457980,
+        4495864887
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/sky%20down.png"
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        5099350829,
+        151165224,
+        9070055745,
+        159005370,
+        591058104,
+        600832720,
+        6444884337,
+        144933262,
+        9544504852,
+        153695452,
+        150335628,
+        2673271285,
+        15063442046,
+        91458024,
+        9544504852,
+        4495865458
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/sky%20front.png"
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        5099350829,
+        151165191,
+        9070056786,
+        159005370,
+        591057861,
+        600886090,
+        6444884337,
+        144933244,
+        9544547694,
+        153695320,
+        2673270998,
+        15063367382,
+        91458024,
+        9544547694,
+        4495866035,
+        150335620
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/sky%20left.png"
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        5099350829,
+        151165206,
+        323494067,
+        159005370,
+        591057625,
+        600833862,
+        6444884337,
+        144933299,
+        9544547542,
+        153695383,
+        150335610,
+        2673271813,
+        15063435355,
+        91458024,
+        4495866584,
+        150335610
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/sky%20right.png"
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        5099350793,
+        151165227,
+        323493360,
+        159006363,
+        591059642,
+        600835177,
+        6412503613,
+        144931564,
+        9544547398,
+        153695471,
+        150335642,
+        2673271464,
+        15063353447,
+        91458002,
+        4495867486
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/sky%20up.png"
+    },
+    {
+      "name": "MADE BY @MADESUMNOISE",
+      "replace_ids": [
+        898398768,
+        898398730,
+        898398743,
+        898398768,
+        898398785,
+        898398795,
+        898398809,
+        898398817,
+        898398837
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18762156944
+    },
+    {
+      "name": "interchangeable lower body (2 much happening imo)",
+      "replace_ids": [
+        87874553953839
+      ],
+      "mode": "cdn",
+      "enabled": false,
+      "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/interchangeable%20lower%20body%20%282%20much%20happening%20imo%29.obj"
+    }
+  ]
+}

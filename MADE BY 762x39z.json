@@ -1,0 +1,903 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Low health blood screen",
+      "replace_ids": [
+        34854607
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "NO TEXTURE",
+      "replace_ids": [
+        "TexturePack"
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "type": "group",
+      "name": "sight",
+      "expanded": false,
+      "children": [
+        {
+          "name": "delta",
+          "replace_ids": [
+            96376274804632,
+            139865726470138,
+            90184737982230,
+            103782327175291,
+            113925576518944
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "kosaku",
+          "replace_ids": [
+            134865285262497,
+            7605603475,
+            7605604580
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "new sight",
+          "replace_ids": [
+            120454048244894,
+            71881622337046,
+            138432033070942,
+            102994578542657,
+            99589189067912,
+            137264070788480,
+            71867745314920,
+            84722907498102,
+            77953612311832,
+            85063205239051,
+            99929897115456,
+            87965344087789,
+            123407720861552,
+            116187021832955,
+            121855007393763,
+            112503921564632,
+            87676346474040,
+            133692327542373,
+            100395326256575,
+            107852184959063,
+            108548347280076,
+            115701513160777,
+            106831922497062,
+            99809569356369,
+            101267733916928,
+            115410357337317,
+            138033038440301,
+            120161975513385,
+            91597105902818,
+            96684855191566,
+            119993560105909,
+            129056558037537,
+            104841038124328,
+            87244688651299,
+            123802890049670,
+            120919112776577,
+            135445550290081,
+            72098658808308,
+            82905285446771,
+            106699653467895,
+            120935506454191,
+            78232131198846,
+            84449712563725,
+            95841466098080,
+            78825112662182,
+            133819096595658,
+            104415743894097,
+            84742536042468,
+            122711840686044,
+            110434827990564,
+            73673959644110,
+            108707199954408,
+            130927711769961,
+            136517211178094,
+            100542479692549,
+            97407155323851,
+            95904880276268,
+            139606967347982,
+            88166521820424,
+            128367749112591,
+            95163591285570,
+            132983027843408,
+            102249924897585,
+            110046842899806,
+            133687267798462,
+            82869388405248,
+            28465212888497,
+            73400695462450,
+            138756853513549,
+            117283293638176,
+            72714521276028,
+            139463118996769,
+            2651989189,
+            1826224161,
+            1805072489
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "coyote",
+          "replace_ids": [
+            134073831106473,
+            129157989758328,
+            85758922687879,
+            111262978670862,
+            94314483471762,
+            72418436532868,
+            74837365836809,
+            76437063642501,
+            135784708048956
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "hitsound",
+      "expanded": false,
+      "children": [
+        {
+          "name": "Hs killsound",
+          "replace_ids": [
+            898398768,
+            898398785,
+            898398795,
+            898398809,
+            898398817,
+            898398837
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 18762156944
+        },
+        {
+          "name": "hitsound pvz",
+          "replace_ids": [
+            287062939
+          ],
+          "mode": "id",
+          "enabled": false,
+          "with_id": 100678470277634
+        },
+        {
+          "name": "hitsound apple",
+          "replace_ids": [
+            287062939
+          ],
+          "mode": "cdn",
+          "enabled": false,
+          "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/Apple%20Hitsound.mp3"
+        },
+        {
+          "name": "hitsound deppop",
+          "replace_ids": [
+            287062939
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/Deeppop%20Hitsound.ogg"
+        },
+        {
+          "name": "hitsound bell",
+          "replace_ids": [
+            287062939
+          ],
+          "mode": "cdn",
+          "enabled": false,
+          "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/Bell2.ogg"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "armor uniform",
+      "expanded": false,
+      "children": [
+        {
+          "name": "armor",
+          "replace_ids": [
+            138078747498324,
+            77613479849737,
+            73306497288958,
+            130888355860552,
+            139724443540466,
+            140401723121688,
+            138556348450698,
+            109424816769126
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "No watch",
+          "replace_ids": [
+            97227571258312,
+            113984862329608,
+            87609398036047,
+            81315314410608,
+            87931377896090,
+            135951047174912,
+            117817582853198,
+            108016769059044,
+            95195898102733,
+            95189694288960
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "No gloves gauche",
+          "replace_ids": [
+            106591579144429,
+            116639919259887,
+            110858584893851,
+            124584494443746,
+            77077880424722,
+            108301009265498
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "No gloves droit",
+          "replace_ids": [
+            124601434644304,
+            134502110888591,
+            126061859441384,
+            131346006514353,
+            78459158577279,
+            108301009265498
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Sleeve",
+          "replace_ids": [
+            2163189692
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/qrhrqiohj/Fleasion-Asset-Dump/blob/main/Colors/Black.png?raw=true"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "sky",
+      "expanded": false,
+      "children": [
+        {
+          "name": "Profile 12",
+          "replace_ids": [
+            5099350829,
+            151165214,
+            323494035,
+            159005370,
+            591058823,
+            600830446,
+            6444884337,
+            144933338,
+            9544505500,
+            153695414,
+            150335574,
+            2673271663,
+            15063412549,
+            91458024,
+            4495864450,
+            6444884337
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Profile 13",
+          "replace_ids": [
+            5099350794,
+            151165197,
+            323494368,
+            858422412,
+            591059876,
+            600831635,
+            6444884785,
+            144931530,
+            9544547905,
+            153695352,
+            150335585,
+            2673271148,
+            15063341496,
+            91457980,
+            4495864887
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Profile 14",
+          "replace_ids": [
+            5099350829,
+            151165224,
+            9070055745,
+            159005370,
+            591058104,
+            600832720,
+            6444884337,
+            144933262,
+            9544504852,
+            153695452,
+            150335628,
+            2673271285,
+            15063442046,
+            91458024,
+            9544504852,
+            4495865458
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Profile 15",
+          "replace_ids": [
+            5099350829,
+            151165191,
+            9070056786,
+            159005370,
+            591057861,
+            600886090,
+            6444884337,
+            144933244,
+            9544547694,
+            153695320,
+            2673270998,
+            15063367382,
+            91458024,
+            9544547694,
+            4495866035,
+            150335620
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Profile 16",
+          "replace_ids": [
+            5099350829,
+            151165206,
+            323494067,
+            159005370,
+            591057625,
+            600833862,
+            6444884337,
+            144933299,
+            9544547542,
+            153695383,
+            150335610,
+            2673271813,
+            15063435355,
+            91458024,
+            4495866584,
+            150335610
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Profile 17",
+          "replace_ids": [
+            5099350793,
+            151165227,
+            323493360,
+            159006363,
+            591059642,
+            600835177,
+            6412503613,
+            144931564,
+            9544547398,
+            153695471,
+            150335642,
+            2673271464,
+            15063353447,
+            91458002,
+            4495867486
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "arm",
+      "expanded": false,
+      "children": [
+        {
+          "name": "right arm",
+          "replace_ids": [
+            124601434644304,
+            134502110888591,
+            126061859441384,
+            131346006514353,
+            78459158577279,
+            108301009265498,
+            108128334741270,
+            140242362964055
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "left arm",
+          "replace_ids": [
+            110770977399083,
+            97227571258312,
+            113984862329608,
+            87609398036047,
+            81315314410608,
+            87931377896090,
+            135951047174912,
+            117817582853198,
+            108016769059044,
+            95195898102733,
+            95189694288960,
+            106591579144429,
+            11663919259887,
+            110858584893851,
+            124584494443746,
+            77077880424722,
+            108301009265498,
+            83033169369113,
+            111525819308010
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "custom gun sound",
+      "expanded": false,
+      "children": [
+        {
+          "name": "custom c25 gun sound",
+          "replace_ids": [
+            132885483989237
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/c25.ogg"
+        },
+        {
+          "name": "custom ak15 gun sound",
+          "replace_ids": [
+            96906485318163
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/ak15.ogg"
+        },
+        {
+          "name": "custom ak47 gun sound",
+          "replace_ids": [
+            17602206900
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/ak47.ogg"
+        },
+        {
+          "name": "custom ak107 gun sound",
+          "replace_ids": [
+            17641126709
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/ak107.ogg"
+        },
+        {
+          "name": "custom c7a2 gun sound",
+          "replace_ids": [
+            16075135523
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/c7a2.ogg"
+        },
+        {
+          "name": "custom m16a4 gun sound",
+          "replace_ids": [
+            16075129011
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/m16a4.ogg"
+        },
+        {
+          "name": "custom executioner gun sound",
+          "replace_ids": [
+            2323962833
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 18874786194
+        },
+        {
+          "name": "custom ak12u gun sound",
+          "replace_ids": [
+            16075139878
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/ak12u.ogg"
+        },
+        {
+          "name": "custom Ia2 ar",
+          "replace_ids": [
+            86215296083702
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/ia2%20ar.ogg"
+        },
+        {
+          "name": "custom m7 ngsw gun sound",
+          "replace_ids": [
+            122577844167289
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/m7%20ngsw.ogg"
+        },
+        {
+          "name": "custom stg 44 gun sound",
+          "replace_ids": [
+            15548676127
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/stg%2044.ogg"
+        },
+        {
+          "name": "custom doombox",
+          "replace_ids": [
+            79971257421538
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/doombox.ogg"
+        },
+        {
+          "name": "custom neowufl ecr",
+          "replace_ids": [
+            16075138319
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/neowufl%20ecr.ogg"
+        },
+        {
+          "name": "custom salty weasel",
+          "replace_ids": [
+            14057273065
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/salty%20weasel.ogg"
+        },
+        {
+          "name": "custom honey badger",
+          "replace_ids": [
+            14057273065,
+            16075159878
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/honey%20badger.ogg"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "image group",
+      "expanded": false,
+      "children": [
+        {
+          "name": "Hitmarker",
+          "replace_ids": [
+            91589255843429
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 18770487347
+        },
+        {
+          "name": "grenade image green",
+          "replace_ids": [
+            319079187
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 85012617711318
+        },
+        {
+          "name": "grenade image red",
+          "replace_ids": [
+            319082682
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 101346976823969
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "free 3d models",
+      "expanded": false,
+      "children": [
+        {
+          "type": "group",
+          "name": "custom free arm",
+          "expanded": false,
+          "children": [
+            {
+              "name": "skeleton left arm",
+              "replace_ids": [
+                83033169369113
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/skeleton%20hand%20gauche.obj"
+            },
+            {
+              "name": "skeleton right arm",
+              "replace_ids": [
+                108128334741270
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/skeleton%20hand%20right.obj"
+            },
+            {
+              "name": "remove arm",
+              "replace_ids": [
+                110770977399083,
+                97227571258312,
+                113984862329608,
+                87609398036047,
+                81315314410608,
+                87931377896090,
+                135951047174912,
+                117817582853198,
+                108016769059044,
+                95195898102733,
+                95189694288960,
+                106591579144429,
+                116639919259887,
+                110858584893851,
+                124584494443746,
+                77077880424722,
+                108301009265498,
+                83033169369113,
+                111525819308010,
+                124601434644304,
+                134502110888591,
+                126061859441384,
+                131346006514353,
+                78459158577279,
+                108301009265498,
+                108128334741270,
+                140242362964055
+              ],
+              "mode": "id",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "custom free honey badger",
+          "expanded": false,
+          "children": [
+            {
+              "name": "honey remove",
+              "replace_ids": [
+                107838318182820,
+                98148862596157,
+                90011634103991,
+                136957288063365,
+                115145997642281,
+                124067277274370,
+                133713967721041,
+                75524102077717,
+                87513132739796,
+                88758722141929,
+                136186933224959,
+                125710869813931,
+                107203029826221,
+                86885653078527,
+                77393036202975,
+                88607662319290,
+                82432898126806,
+                105331471529388,
+                98910544613270,
+                140422703596878,
+                84515971468405,
+                87587402987047,
+                93334531646700,
+                74985497868400,
+                99039015078478,
+                75754774191566,
+                140155115651687,
+                130047661165778,
+                107953495205667,
+                88984279433002,
+                136014776688657,
+                74792008438911,
+                95311412842214,
+                121603304557080,
+                107998102545964,
+                87187351045111,
+                83280450351950,
+                74702488347019,
+                101667207324037,
+                78637076008997,
+                102261767462602,
+                101321165671692,
+                122536701926993,
+                79503126702585,
+                85021368690726,
+                138722429580802,
+                121851177875187,
+                106691776457786,
+                95580150500326,
+                134871231988214,
+                137151832239784,
+                124033330116281,
+                130891862841753,
+                120644980783923,
+                130983657670974,
+                99147012118797,
+                127973617467787,
+                86705474960498,
+                102434622776292,
+                131906947077123,
+                124004436950904,
+                95904876308594,
+                122625030937950,
+                102133072442073,
+                122868303956002,
+                89985351275674,
+                79314243192515,
+                79228048635363,
+                95229345205978,
+                128959945897687,
+                138729151522311
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "muzzle",
+              "replace_ids": [
+                140422703596878
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/bouche.obj"
+            },
+            {
+              "name": "barrel",
+              "replace_ids": [
+                140155115651687
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/canon.obj"
+            },
+            {
+              "name": "around the barrel",
+              "replace_ids": [
+                98910544613270
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/canon%20tour%20avec%20les%20trou.obj"
+            },
+            {
+              "name": "cross upper",
+              "replace_ids": [
+                79228048635363
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/cross%20up.obj"
+            },
+            {
+              "name": "end of cross",
+              "replace_ids": [
+                101321165671692
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/fin%20de%20la%20crosse.obj"
+            },
+            {
+              "name": "handle",
+              "replace_ids": [
+                138729151522311
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/handle.obj"
+            },
+            {
+              "name": "main part",
+              "replace_ids": [
+                106691776457786
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/main%20part.obj"
+            },
+            {
+              "name": "receiver",
+              "replace_ids": [
+                101667207324037
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/receiver.obj"
+            },
+            {
+              "name": "cros support",
+              "replace_ids": [
+                83280450351950
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/762x39z/gun-sound-phantom-forces/raw/refs/heads/main/supportcrosse.obj"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Noodle arm",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Left boodle arm",
+          "replace_ids": [
+            83033169369113
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/Noodle%20arm/Left%20noodle%20arm.obj"
+        },
+        {
+          "name": "Right noodle arm",
+          "replace_ids": [
+            108128334741270
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/Noodle%20arm/Right%20noodle%20arm.obj"
+        }
+      ]
+    }
+  ]
+}

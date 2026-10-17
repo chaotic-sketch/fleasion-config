@@ -1,0 +1,1069 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "custom gun models",
+      "expanded": true,
+      "children": [
+        {
+          "type": "group",
+          "name": "c7a2-custom-gun-model",
+          "expanded": false,
+          "children": [
+            {
+              "name": "c7a2-custom-model",
+              "replace_ids": [
+                9803286276,
+                11195516461,
+                11195517229,
+                11195517242,
+                11195517251,
+                11195518227,
+                11195518233,
+                11195520755,
+                11195520760,
+                11195520774,
+                11195522456,
+                11195526456,
+                89239671302669,
+                121904855435528,
+                11195516387,
+                11195525292,
+                11195520751,
+                10658570341,
+                10658570389,
+                10658570415,
+                10658570461,
+                10658570463,
+                10658570561,
+                10682556564,
+                10682556570,
+                10682556581,
+                10682557224,
+                10682557250,
+                10682557356,
+                10682557417,
+                10682557436,
+                10682557486,
+                10682557537,
+                10682557560,
+                10682557675,
+                11841388795,
+                11859753479,
+                11859753593,
+                11859753675,
+                11859753692,
+                17724938473,
+                17724938485,
+                71615061182711,
+                72975211244535,
+                78104268911907,
+                80270623786829,
+                89371708926614,
+                95751399919785,
+                96906329000450,
+                105024319488690,
+                111009431607203,
+                118245399792863,
+                123763887893852,
+                127348203725162,
+                130344592564935,
+                10682557370,
+                10682557235,
+                10682557230
+              ],
+              "mode": "id",
+              "enabled": false
+            },
+            {
+              "name": "magazine",
+              "replace_ids": [
+                129442528868139
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/c7a2(sometimes%20works%20sometimes%20doesnt)/Magazine.obj"
+            },
+            {
+              "name": "c7",
+              "replace_ids": [
+                87874553953839
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/c7a2(sometimes%20works%20sometimes%20doesnt)/C7.obj"
+            },
+            {
+              "name": "charging handle",
+              "replace_ids": [
+                120783759765909
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/c7a2(sometimes%20works%20sometimes%20doesnt)/Charging%20Handle.obj"
+            },
+            {
+              "name": "gun bodyframework",
+              "replace_ids": [
+                11195519760
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/c7a2(sometimes%20works%20sometimes%20doesnt)/Gun%20BodyFramework.obj"
+            },
+            {
+              "name": "internal structure",
+              "replace_ids": [
+                10702844719
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/c7a2(sometimes%20works%20sometimes%20doesnt)/Internal%20Structure.obj"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "c25-custom-gun-model",
+          "expanded": false,
+          "children": [
+            {
+              "name": "c25-custom-gun-model",
+              "replace_ids": [
+                11195518249,
+                74172440579943,
+                74256036366526,
+                74337045477328,
+                74859383615019,
+                77299583231397,
+                79051336818329,
+                79410003917755,
+                79959724452915,
+                81650368359868,
+                83550137677694,
+                85007247332350,
+                88263411385057,
+                89319670372547,
+                89725220876836,
+                90532659348894,
+                92030168264130,
+                92538403676558,
+                93015944840377,
+                93087821167040,
+                93527549943154,
+                98513896091363,
+                101934422517203,
+                102980128607161,
+                105602413660926,
+                105917475284496,
+                107142411132121,
+                107657798873068,
+                109516165380965,
+                112443554104332,
+                114216866863385,
+                115197242650320,
+                121636200069475,
+                122978762432647,
+                129439155229301,
+                131703851299727,
+                133264936956535,
+                133544668803572,
+                134425611125230,
+                134926645532534,
+                135212945378704,
+                135592572631862,
+                135671105957863,
+                136366939158881,
+                139064417235332,
+                139340787867627
+              ],
+              "mode": "id",
+              "enabled": false
+            },
+            {
+              "name": "gun body framework 1",
+              "replace_ids": [
+                133677352806453
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/c25(railgun%20looking%20one)/Gun%20body%20framework%201.obj"
+            },
+            {
+              "name": "gun body framework 2",
+              "replace_ids": [
+                3182689627122790
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/c25(railgun%20looking%20one)/Gun%20body%20framework%202.obj"
+            },
+            {
+              "name": "transparant receiver",
+              "replace_ids": [
+                110752351185487
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/c25(railgun%20looking%20one)/Transparant%20Receiver.obj"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "ak-105-custom-gun-model",
+          "expanded": false,
+          "children": [
+            {
+              "name": "ak-105",
+              "replace_ids": [
+                105190109814524,
+                118110535180649,
+                74383930549707,
+                93531046049238,
+                132529074488729,
+                115308998279194,
+                89661821683777,
+                72493930603746,
+                91895782843157,
+                82980362406563,
+                138623198992969,
+                105251961515223,
+                11841390400,
+                11841389353,
+                11841388385,
+                11841390967,
+                11841388804,
+                11841388407,
+                109194962831398,
+                122723312886714,
+                72332341706087,
+                5173454393,
+                5173454066
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "gun body framework 1",
+              "replace_ids": [
+                105190109814524
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/ak-105/gun%20body%20framework%201.obj"
+            },
+            {
+              "name": "gun body framework 2",
+              "replace_ids": [
+                91895782843157
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/ak-105/gun%20body%20framework%202.obj"
+            },
+            {
+              "name": "magazine",
+              "replace_ids": [
+                132529074488729
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/ak-105/magazine.obj"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "neowulf-ecr-custom-gun-model",
+          "expanded": false,
+          "children": [
+            {
+              "name": "neowulf-ecr",
+              "replace_ids": [
+                76032326477723,
+                85622799912136,
+                98451836713711,
+                118989432392916
+              ],
+              "mode": "id",
+              "enabled": false
+            },
+            {
+              "name": "bottom-tube",
+              "replace_ids": [
+                82848310957946
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/neowulf(medical)/3d0fe5f1ccca7b99%20(1).obj"
+            },
+            {
+              "name": "top-tube",
+              "replace_ids": [
+                89290210635737
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/neowulf(medical)/775808fd7f86f69f%20(1).obj"
+            },
+            {
+              "name": "magazine",
+              "replace_ids": [
+                84012185623680,
+                131336005412236
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/neowulf(medical)/magmedic.obj"
+            },
+            {
+              "name": "stock",
+              "replace_ids": [
+                117210674994812,
+                73604567368723
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/neowulf(medical)/de4aa1a78466ca27%20(1).obj"
+            },
+            {
+              "name": "upper-receiver",
+              "replace_ids": [
+                11841392856
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/neowulf(medical)/ebb4147458cdee3e.obj"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "satanic-as-val-custom-gun-model",
+          "expanded": false,
+          "children": [
+            {
+              "name": "asval main",
+              "replace_ids": [
+                110851932589511
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/as-val/test.obj"
+            },
+            {
+              "name": "asval barrel",
+              "replace_ids": [
+                138309213259783
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/as-val/barrel%20asval.obj"
+            },
+            {
+              "name": "handguard as val",
+              "replace_ids": [
+                137629497500873
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/as-val/handguard.obj"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "satanic-neowulf-ecr-custom-gun-model",
+          "expanded": false,
+          "children": [
+            {
+              "name": "satanic-neowulf-ecr",
+              "replace_ids": [
+                120783759765909,
+                113257420198533,
+                91627691758318,
+                132041511887479,
+                79261416780912,
+                11195516398,
+                135655198302737,
+                71234565442023,
+                78486166792864,
+                85435589256390,
+                78104268911907,
+                72060557663961,
+                85454134913390,
+                11841393283,
+                71181894082372,
+                100778828665647,
+                11841392845,
+                104263187375172,
+                120783759765909,
+                134718356681555,
+                11841392856,
+                75356445931963,
+                94327485827335,
+                85108440090108,
+                11841388795,
+                111009431607203,
+                139682736662610,
+                125197738472588,
+                72068134047191,
+                81701168226946,
+                17724938473,
+                127348203725162,
+                123763887893852,
+                82848310957946,
+                11841392045,
+                71615061182711,
+                10682557537,
+                88973041647543
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "bodyframe",
+              "replace_ids": [
+                89290210635737
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/satanic-neowulf/neowolf%20ecr%20bodyframe.obj"
+            },
+            {
+              "name": "satanic symbols",
+              "replace_ids": [
+                87874553953839
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/satanic-neowulf/satanic%20symbols.obj"
+            },
+            {
+              "name": "chains",
+              "replace_ids": [
+                120205859919593
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/satanic-neowulf/chains.obj"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "bunny-c25-custom-gun-model",
+          "expanded": false,
+          "children": [
+            {
+              "name": "c25",
+              "replace_ids": [
+                86418872870577,
+                89725220876836,
+                98176923302829,
+                109516165380965,
+                113711863650473,
+                131703851299727,
+                114216866863385,
+                74337045477328,
+                139064417235332,
+                89319670372547,
+                85007247332350,
+                112443554104332,
+                77299583231397,
+                108002063862588,
+                134896238086931,
+                92030168264130,
+                88263411385057,
+                93087821167040,
+                133677352806453,
+                90532659348894,
+                107657798873068,
+                93527549943154,
+                105917475284496,
+                83550137677694,
+                93015944840377,
+                133264936956535,
+                98513896091363,
+                134926645532534,
+                79959724452915,
+                82689627122790,
+                79051336818329,
+                135212945378704,
+                74859383615019,
+                129439155229301,
+                79410003917755,
+                133544668803572,
+                102980128607161,
+                93392368175767,
+                115197242650320,
+                135592572631862,
+                110752351185487
+              ],
+              "mode": "id",
+              "enabled": false
+            },
+            {
+              "name": "bunny c25",
+              "replace_ids": [
+                101934422517203
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/c25-bunny(NEEDS%20COMPED)/c25.obj"
+            },
+            {
+              "name": "bunnies",
+              "replace_ids": [
+                120190097660161
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/c25-bunny(NEEDS%20COMPED)/c25%20bunnies.obj"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "ssg-cslr-custom-gun-model",
+          "expanded": false,
+          "children": [
+            {
+              "name": "cslr",
+              "replace_ids": [
+                129061061715114,
+                135584891209355,
+                122432800403864,
+                107912279628437,
+                111462674329595,
+                114303258194987,
+                140472635853846,
+                78609389836799,
+                106133094726883,
+                95103828221848,
+                72771378805383,
+                133647288630942,
+                73710660502423,
+                122820631077749,
+                74840185716607,
+                138894513279333,
+                135739564162838,
+                72455382821435,
+                72257258725927,
+                119373996990611,
+                83554205437351,
+                75532382467978,
+                115681349121578,
+                134638872569749
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "ssg noscope",
+              "replace_ids": [
+                118747751717697
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/ssg-cslr%20ssg-trg-42/ssg08%20NOSCOPE%20CSLR3.obj"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "ssg-trg-42-custom-gun-model",
+          "expanded": false,
+          "children": [
+            {
+              "name": "trg-42",
+              "replace_ids": [
+                103921822846176
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/ssg-cslr%20ssg-trg-42/ssg08%20NOSCOPE%20TRG42.obj"
+            },
+            {
+              "name": "ssg attachments",
+              "replace_ids": [
+                5173476638
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/ssg-cslr%20ssg-trg-42/ssg08%20attachments%20NOSCOPE%20TRG42.obj"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "spear-lt-custom-gun-model",
+          "expanded": false,
+          "children": [
+            {
+              "name": "spear-lt",
+              "replace_ids": [
+                91882564460076,
+                100179465789355,
+                81591725650060,
+                73168602991557,
+                87516164335511,
+                90833023490300,
+                70498140367650,
+                96572222806707,
+                87046221550871,
+                73023522282647,
+                136437346757182,
+                118226237656186,
+                78241118571479,
+                130573289603670,
+                101175516726901,
+                108943089900789,
+                122691788860554,
+                107771268082942,
+                111803547017743,
+                84968468874324,
+                127264270809097,
+                131616950438794,
+                138372684514530,
+                119818551177239,
+                107013907391995,
+                109890501125720,
+                72793907141587,
+                117142397068621,
+                123328168869482,
+                140304376264651,
+                131061743304730,
+                115624711029563,
+                81708090426795,
+                118387192662068,
+                89076556077014,
+                136065696961925,
+                105380288854676,
+                113663061518404,
+                85428980118438,
+                90383119417062,
+                107979427675823,
+                86477683725820,
+                89715493125039,
+                73717014588204,
+                72048215623679,
+                138886643904119,
+                138886643904119,
+                86868490372068,
+                103556874515612,
+                73718469927835,
+                110942141303412
+              ],
+              "mode": "id",
+              "enabled": true
+            },
+            {
+              "name": "mainbody",
+              "replace_ids": [
+                99693279418158
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/spear-lt/spearlt.obj"
+            },
+            {
+              "name": "chains barrel",
+              "replace_ids": [
+                119474362131154
+              ],
+              "mode": "cdn",
+              "enabled": true,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/spear-lt/ltchains%20(1).obj"
+            },
+            {
+              "name": "vines barrel",
+              "replace_ids": [
+                113939572923223
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://github.com/chaotic-sketch/bruh/raw/refs/heads/main/spear-lt/vines.obj"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "name": "abyssal-neowulf-ecr-custom-gun-model",
+          "expanded": false,
+          "children": [
+            {
+              "name": "remove",
+              "replace_ids": [
+                139517681905131,
+                82271025092362,
+                121903910338318,
+                102048014847981,
+                111348260733256,
+                130742864106183,
+                94906075705248,
+                122784273921608,
+                91236118384525,
+                81585282141106,
+                129061061715114,
+                77393036202975,
+                110942141303412,
+                76935181591781,
+                133713967721041,
+                90141469391090,
+                92955487077142,
+                113939572923223,
+                97566291583287,
+                75850398303347,
+                83426938506282,
+                134718356681555,
+                72060557663961,
+                134109723400189,
+                80270623786829,
+                84186241171023,
+                79518136777319,
+                137264745677066,
+                105710901125716,
+                82570425664798,
+                85108440090108,
+                112934980702406
+              ],
+              "mode": "id",
+              "enabled": false
+            },
+            {
+              "name": "remove",
+              "replace_ids": [
+                76032326477723,
+                85622799912136,
+                105172931893054,
+                102703573850455,
+                99260639965605,
+                74864569522140,
+                14317823274,
+                11195516398
+              ],
+              "mode": "id",
+              "enabled": false
+            },
+            {
+              "name": "remove",
+              "replace_ids": [
+                134649354677265,
+                78486166792864,
+                99845279926298,
+                17724938473,
+                11841393283,
+                11841388795,
+                78104268911907,
+                11841392845,
+                138384240832659,
+                111010041364610,
+                88973041647543,
+                94327485827335,
+                91627691758318,
+                135757810468851,
+                77594030658942,
+                89121656731662,
+                10682557537,
+                120783759765909,
+                11841392856,
+                108192448919854,
+                139682736662610,
+                74387583225428,
+                82848310957946,
+                99099563962701,
+                11841392045,
+                117210674994812,
+                97077538685802,
+                71181894082372,
+                84012185623680,
+                120205859919593,
+                89290210635737,
+                104263187375172,
+                125197738472588,
+                92343586198514,
+                99395188962933,
+                120783759765909,
+                111331317943411,
+                11841393283,
+                71615061182711,
+                99099563962701,
+                108192448919854,
+                99395188962933,
+                97077538685802,
+                118897609288665,
+                127348203725162,
+                111009431607203,
+                81852063362216
+              ],
+              "mode": "id",
+              "enabled": false
+            },
+            {
+              "name": "unsure what is replaced",
+              "replace_ids": [
+                898398768,
+                898398730,
+                898398743,
+                898398768,
+                898398785,
+                898398795,
+                898398809,
+                898398817,
+                898398837
+              ],
+              "mode": "id",
+              "enabled": false,
+              "with_id": 18762156944
+            },
+            {
+              "name": "MADE BY @MADESUMNOISE",
+              "replace_ids": [
+                89290210635737
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/abyssal%20handgaurd.obj"
+            },
+            {
+              "name": "MADE BY @MADESUMNOISE",
+              "replace_ids": [
+                131336005412236
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/jellyfish%20mag.obj"
+            },
+            {
+              "name": "MADE BY @MADESUMNOISE",
+              "replace_ids": [
+                139682736662610,
+                104269594108255
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/abyssal%20barrel.obj"
+            },
+            {
+              "name": "MADE BY @MADESUMNOISE",
+              "replace_ids": [
+                73604567368723,
+                117210674994812
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/abyssal%20stock%20version3.obj"
+            },
+            {
+              "name": "MADE BY @MADESUMNOISE",
+              "replace_ids": [
+                98451836713711
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/stock%20part%20abyssal5.obj"
+            },
+            {
+              "name": "MADE BY @MADESUMNOISE",
+              "replace_ids": [
+                87874553953839
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/lower%20abyssal%20final%202.obj"
+            },
+            {
+              "name": "MADE BY @MADESUMNOISE",
+              "replace_ids": [
+                11841392856
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/body%20upper1.obj"
+            },
+            {
+              "name": "MADE BY @MADESUMNOISE",
+              "replace_ids": [
+                88973041647543
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/abyssal%20grip.obj"
+            },
+            {
+              "name": "MADE BY @MADESUMNOISE",
+              "replace_ids": [
+                16075138319
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/c25.ogg"
+            },
+            {
+              "name": "MADE BY @MADESUMNOISE",
+              "replace_ids": [
+                287062939
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/c7a2.ogg"
+            },
+            {
+              "name": "MADE BY @MADESUMNOISE",
+              "replace_ids": [
+                127348203725162
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/trigger%20might%20be%204%20much.obj"
+            },
+            {
+              "name": "MADE BY @MADESUMNOISE",
+              "replace_ids": [
+                5099350829,
+                151165214,
+                323494035,
+                159005370,
+                591058823,
+                600830446,
+                6444884337,
+                144933338,
+                9544505500,
+                153695414,
+                150335574,
+                2673271663,
+                15063412549,
+                91458024,
+                4495864450,
+                6444884337
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/sky%20back.png"
+            },
+            {
+              "name": "MADE BY @MADESUMNOISE",
+              "replace_ids": [
+                5099350794,
+                151165197,
+                323494368,
+                858422412,
+                591059876,
+                600831635,
+                6444884785,
+                144931530,
+                9544547905,
+                153695352,
+                150335585,
+                2673271148,
+                15063341496,
+                91457980,
+                4495864887
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/sky%20down.png"
+            },
+            {
+              "name": "MADE BY @MADESUMNOISE",
+              "replace_ids": [
+                5099350829,
+                151165224,
+                9070055745,
+                159005370,
+                591058104,
+                600832720,
+                6444884337,
+                144933262,
+                9544504852,
+                153695452,
+                150335628,
+                2673271285,
+                15063442046,
+                91458024,
+                9544504852,
+                4495865458
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/sky%20front.png"
+            },
+            {
+              "name": "MADE BY @MADESUMNOISE",
+              "replace_ids": [
+                5099350829,
+                151165191,
+                9070056786,
+                159005370,
+                591057861,
+                600886090,
+                6444884337,
+                144933244,
+                9544547694,
+                153695320,
+                2673270998,
+                15063367382,
+                91458024,
+                9544547694,
+                4495866035,
+                150335620
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/sky%20left.png"
+            },
+            {
+              "name": "MADE BY @MADESUMNOISE",
+              "replace_ids": [
+                5099350829,
+                151165206,
+                323494067,
+                159005370,
+                591057625,
+                600833862,
+                6444884337,
+                144933299,
+                9544547542,
+                153695383,
+                150335610,
+                2673271813,
+                15063435355,
+                91458024,
+                4495866584,
+                150335610
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/sky%20right.png"
+            },
+            {
+              "name": "MADE BY @MADESUMNOISE",
+              "replace_ids": [
+                5099350793,
+                151165227,
+                323493360,
+                159006363,
+                591059642,
+                600835177,
+                6412503613,
+                144931564,
+                9544547398,
+                153695471,
+                150335642,
+                2673271464,
+                15063353447,
+                91458002,
+                4495867486
+              ],
+              "mode": "cdn",
+              "enabled": false,
+              "cdn_url": "https://raw.githubusercontent.com/hahahaahhahaahhahahahha/xoxo-config/refs/heads/main/sky%20up.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
